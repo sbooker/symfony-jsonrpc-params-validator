@@ -16,6 +16,7 @@ See [yoanm/symfony-jsonrpc-params-sf-constraints-doc](https://github.com/yoanm/s
 ## Versions
 - Symfony v3/4 - PHP >=7.1 : `^v1.0`
 - Symfony v4/5 - PHP >=7.2 : `^v2.0`
+- Symfony v5.4/6 - PHP >=8.0 : `v3.0`
 
 ⚠️⚠️ `v0.2.0` is replaced by `v1.0.0` ! ⚠️⚠️
 
